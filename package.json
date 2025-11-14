@@ -5,8 +5,7 @@
   "main": "./dist/SafeGL.js",
   "types": "./dist/SafeGL.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "cd import-glsl && npm install && tsc --project . && cd .. && tsc --project ."
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
